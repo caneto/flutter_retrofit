@@ -1,23 +1,21 @@
 # Retrofit with Flutter
 
-A new flutter applicaiton with very simple retrofit client (the sample of presentation).
+Um novo aplicativo flutter com cliente de retrofit muito simples (a amostra de apresentação).
 
-Read more here: https://medium.com/mindful-engineering/retrofit-the-easiest-way-to-call-rest-apis-is-flutter-fe55d1e7c5c2
+Leia mais aqui: 
 
-# Description
+# Descrição
 
-A very simple sample of retrofit client & generate the client file in project. So, I am going to create an app of Retrofit in a flutter with very easy and understandable code. I also integrate a dependency injection in this app.That dependencies will help to handle all data parsing and we need to write less code.
+Uma amostra muito simples de cliente de retrofit e gerar o arquivo do cliente no projeto. Então, vou criar um app de Retrofit em flutter com código bem fácil e compreensível. Também integro uma injeção de dependência neste aplicativo. Essas dependências ajudarão a lidar com toda a análise de dados e precisamos escrever menos código.
 
-# Dependencies
+# Dependências
 
  - retrofit: ^1.3.4+1
  - dio: ^3.0.10
  - built_value: ^7.1.0
  - json_annotation: ^3.1.0
 
-# Conclusion
+# Conclusão
 
-I hope this article has cleared up some of the major question marks regrading to the Hero aniamtion. I am exploring the flutter framework, and will report all of my new findings.
+Espero que este artigo tenha esclarecido algumas das principais dúvidas sobre a animação do Herói. Estou explorando a estrutura do flutter e relatarei todas as minhas novas descobertas.
 
-# LICENSE!
-flutter-retrofit is [MIT-licensed](/LICENSE).
